@@ -1,61 +1,39 @@
-# 👋 Hi, I'm Abdinasir Jama
-
-🌍 DevOps Engineer | Automation Enthusiast | Cloud Native Advocate  
-🔧 Passionate about streamlining development, infrastructure, and deployment pipelines.
+<h1 align="center">👋 Hi, I'm Abdinasir Jama</h1>
+<p align="center">
+  💻 DevOps Engineer | ☁️ Cloud Enthusiast | 🚀 Automation Fanatic  
+  <br>Helping teams ship faster with infrastructure as code, CI/CD, containers & cloud-native tools.
+</p>
 
 ---
 
-## 🚀 Tech Stack & Tools
+## 🔧 DevOps Toolbox
 
-### ⚙️ DevOps & CI/CD
-![Jenkins](https://img.shields.io/badge/-Jenkins-0A0A0A?logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FC6D26?logo=gitlab&logoColor=white)
+### ⚙️ CI/CD & Automation
+<p>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+</p>
 
-### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-000000?logo=ansible&logoColor=white)
+### ☁️ Cloud & Infrastructure as Code
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white"/>
+</p>
 
 ### 🐳 Containers & Orchestration
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/-Helm-0F1689?logo=helm&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+</p>
 
-### 🔒 Security & Quality
-![Trivy](https://img.shields.io/badge/-Trivy-0F6E98?logo=aqua&logoColor=white)
-![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?logo=sonarqube&logoColor=white)
-![DevSecOps](https://img.shields.io/badge/-DevSecOps-3C3C3C?logo=security&logoColor=white)
+### 🔐 Security & Quality
+<p>
+  <img src="https://img.shields.io/badge/Trivy-0F6E98?style=for-the-badge&logo=aqua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DevSecOps-3C3C3C?style=for-the-badge&logo=security&logoColor=white"/>
+</p>
 
-### 📈 Monitoring & Observability
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
-![Alertmanager](https://img.shields.io/badge/-Alertmanager-BE1F3D?logo=alertmanager&logoColor=white)
-
-### 💻 Programming & Scripting
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-
----
-
-## 📚 Projects & Contributions
-
-- 🔧 **CI/CD Pipeline with Jenkins + GitHub + Docker**
-- ☁️ **AWS Infrastructure as Code with Terraform**
-- 📦 **Containerized Web App with Docker and Kubernetes**
-- 📈 **Monitoring Stack with Prometheus + Grafana**
-- 🔐 **Security Scanning using Trivy and SonarQube**
-
-📁 Check out my pinned repositories for hands-on DevOps projects!
-
----
-
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🌐 [Portfolio](https://yourportfolio.com) *(optional)*
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-
----
-
+### 📈 Mon
