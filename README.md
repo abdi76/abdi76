@@ -3,7 +3,7 @@
   💻 DevOps Engineer | ☁️ Cloud Enthusiast | 🚀 Automation Fanatic  
   <br>Helping teams ship faster with infrastructure as code, CI/CD, containers & cloud-native tools.
 </p>
-
+- 🌐 [Portfolio](https://abdi76.github.io/)*
 ---
 
 ## 🔧 DevOps Toolbox
@@ -67,7 +67,7 @@ Explore my pinned repositories for real-world examples! 👇
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abdi76)
 
 ---
 
